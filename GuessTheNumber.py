@@ -1,7 +1,7 @@
 from random import randint
 
 def correct_num():
-    return randint(1,100)
+    return randint(1, 100)
 
 
 def game(number):
